@@ -12,6 +12,9 @@ scikit-learn = "*"
 matplotlib = "*"
 pandas = "*"
 thinc = "*"
+sklearn = "*"
+re = "*"
+time = "*"
 
 [dev-packages]
 
