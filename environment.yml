@@ -1,4 +1,3 @@
-name:echo
 dependencies:
   - python=3
   - pip:
